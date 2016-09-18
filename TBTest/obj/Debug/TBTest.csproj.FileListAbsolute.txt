@@ -1,0 +1,9 @@
+C:\Tom\Projects\TBTest\TBTest\bin\Debug\TBTest.exe.config
+C:\Tom\Projects\TBTest\TBTest\obj\Debug\TBTest.Properties.Resources.resources
+C:\Tom\Projects\TBTest\TBTest\obj\Debug\TBTest.csproj.GenerateResource.Cache
+C:\Tom\Projects\TBTest\TBTest\bin\Debug\TBTest.exe
+C:\Tom\Projects\TBTest\TBTest\bin\Debug\TBTest.pdb
+C:\Tom\Projects\TBTest\TBTest\obj\Debug\TBTest.exe
+C:\Tom\Projects\TBTest\TBTest\obj\Debug\TBTest.pdb
+C:\Tom\Projects\TBTest\TBTest\obj\Debug\TBTest.PortfolioTracking.resources
+C:\Tom\Projects\TBTest\TBTest\obj\Debug\TBTest.csprojResolveAssemblyReference.cache

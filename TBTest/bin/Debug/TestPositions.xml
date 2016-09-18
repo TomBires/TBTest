@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PositionCollection>
+        <Position>
+            <securityName>IBM</securityName>
+            <securityID>500</securityID>
+            <ticker>IBM</ticker>
+            <purchasePrice>90</purchasePrice> 
+            <purchaseDate>Jan1</purchaseDate>
+            <quantity>1000</quantity>
+            <traderID>101</traderID>
+            <priorClosePrice>99</priorClosePrice>
+	</Position>
+        <Position>
+            <securityName>IBM</securityName>
+            <securityID>500</securityID>
+            <ticker>IBM</ticker>
+            <purchasePrice>80</purchasePrice> 
+            <purchaseDate>Feb1</purchaseDate>
+            <quantity>1000</quantity>
+            <traderID>101</traderID>
+            <priorClosePrice>99</priorClosePrice>
+	</Position>
+        <Position>
+            <securityName>BOA</securityName>
+            <securityID>502</securityID>
+            <ticker>COKE</ticker>
+            <purchasePrice>60</purchasePrice> 
+            <purchaseDate>Jan1</purchaseDate>
+            <quantity>1000</quantity>
+            <traderID>101</traderID>
+            <priorClosePrice>49</priorClosePrice>
+	</Position>
+        <Position>
+            <securityName>BOA</securityName>
+            <securityID>502</securityID>
+            <ticker>COKE</ticker>
+            <purchasePrice>50</purchasePrice> 
+            <purchaseDate>Jan1</purchaseDate>
+            <quantity>1000</quantity>
+            <traderID>101</traderID>
+            <priorClosePrice>49</priorClosePrice>
+	</Position>
+</PositionCollection>
